@@ -65,6 +65,7 @@ clustering-peces-ml/
 └── LICENSE                 # Licencia MIT
 ```
 ## Dataset 🏋️‍♂️
+Este dataset fue proporcionado por Ta-wei Lo y se encuentra disponible para su uso en la plataforma de Kaggle.
 
 ``` bash
 species,length,weight,w_l_ratio
